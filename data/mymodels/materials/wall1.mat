@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="0c27589a352fef225ac4b8afa7ba7a0217f89d43" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<texture name="albedo">guid://c37338f94422dbb675b867fd6aed7ea8325103e5</texture>
+	<parameter name="specular" expression="0">0</parameter>
+</material>

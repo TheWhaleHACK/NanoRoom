@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="655185010" name="utility_box_02_4k">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1189325097" immovable="1" name="utility_box_02">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://697088a437b491b140c893307d4c8a77f94b736e</mesh_name>
+			<surface name="utility_box_02" material="d7f063d2c5a08b630efdc37ee321e9325faf7a8c"/>
+			<transform>100 8.74227838251e-06 -8.74227800037e-06 0.0 8.74227838251e-06 -4.37113823591e-06 100 0.0 8.74227800037e-06 -100 -4.37113900019e-06 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

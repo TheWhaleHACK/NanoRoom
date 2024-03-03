@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="1187622847" name="power_box_01_4k">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshSkinned" id="1515846162" name="power_box_01_box">
+			<mesh_name>guid://359e4eaf9595c861dc950713fed6a175852a6065</mesh_name>
+			<fps_visible_camera>-1</fps_visible_camera>
+			<fps_visible_shadow>30</fps_visible_shadow>
+			<fps_invisible>0</fps_invisible>
+			<speed>30</speed>
+			<surface name="power_box_01" material="c5bc2ce596073ece053376a9a22baf1c9111276b"/>
+			<transform>1 6.93771004924e-23 3.82137123179e-15 0.0 2.41430667903e-22 1 -8.74227800037e-08 0.0 -3.82137123179e-15 8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshSkinned" id="409326153" name="power_box_01_door">
+			<mesh_name>guid://6e2b2ca6e6e250d2ad1f2f12857323514bdb1680</mesh_name>
+			<fps_visible_camera>-1</fps_visible_camera>
+			<fps_visible_shadow>30</fps_visible_shadow>
+			<fps_invisible>0</fps_invisible>
+			<speed>30</speed>
+			<surface name="power_box_01" material="c5bc2ce596073ece053376a9a22baf1c9111276b"/>
+			<transform>1 6.93771004924e-23 3.82137123179e-15 0.0 2.41430667903e-22 1 -8.74227800037e-08 0.0 -3.82137123179e-15 8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="344241940" name="rig_power_box_01">
+			<transform>100 8.74227838251e-06 -8.74227800037e-06 0.0 8.74227838251e-06 -4.37113823591e-06 100 0.0 8.74227800037e-06 -100 -4.37113900019e-06 0.0 4.15092876636e-09 -0.0474810886383 2.07546438318e-09 1.0</transform>
+		</node>
+	</node>
+</nodes>

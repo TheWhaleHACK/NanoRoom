@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="83199499" name="outdoor_table_chair_set_01_4k">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1734484974" immovable="1" name="outdoor_table_chair_set_01_chair_01">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://9b90664a18e3d190cf0abe76b6b6e67d227fcdc4</mesh_name>
+			<surface name="outdoor_table_chair_set_01_chair" material="ff0130358f400490b2ac3ef96696ec8c128a463b"/>
+			<transform>97.0669401926 24.0417885309 -9.79317762426e-06 0.0 1.05876614458e-05 -2.01292309198e-06 100 0.0 24.0417885309 -97.0669401926 -4.49934669596e-06 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="419011189" immovable="1" name="outdoor_table_chair_set_01_table">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://93758e0de2f76dbc739a325127abfb82010c7e53</mesh_name>
+			<surface name="outdoor_table_chair_set_01_table" material="2801a60180d1281856f24d85155f2f7dc528ab27"/>
+			<transform>100 8.74227942467e-06 -8.74227800037e-06 0.0 8.74227942467e-06 -1.6292067191e-05 100 0.0 8.74227800037e-06 -100 -1.62920679553e-05 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="169044304" immovable="1" name="outdoor_table_chair_set_01_chair_02">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://1d9d888c89f684b3be1af498f2a8c88c9a816f96</mesh_name>
+			<surface name="outdoor_table_chair_set_01_chair" material="ff0130358f400490b2ac3ef96696ec8c128a463b"/>
+			<transform>96.4258696633 26.4962574656 -9.90046587556e-06 0.0 7.58759366721e-06 9.75255731416e-06 100 0.0 26.4962574656 -96.4258696633 7.39355985108e-06 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="1785366117" name="16696_20_Pane_Casement_Window-Pine_V1">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="893453440" name="16696_20_Pane_Casement_Window-Pine_V1_root">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1225207263" immovable="1" name="Box20">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://d6bf0a2ff7c053a7bde41a4aa485c29e151637bf</mesh_name>
+				<surface name="Pine_mat" material="ef7e61a767b855e8188be7c0e2ed89d3e5ce4140"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1222255026" immovable="1" name="brava18">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://c69cd6514d6ad62d5e64a492c2ee1de29a6ce212</mesh_name>
+				<surface name="Silver_mat" material="62eac6d3baf0e4d2027d569c5d8d5424587b769c"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="592549225" immovable="1" name="prsten36">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://9db6e4f9d639501678705c8cfd20e03889cb9a49</mesh_name>
+				<surface name="Silver_mat" material="62eac6d3baf0e4d2027d569c5d8d5424587b769c"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="542924724" immovable="1" name="prsten37">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://4e8d39ebd2ea12a79d12501492fcd2c86c5fdf14</mesh_name>
+				<surface name="Silver_mat" material="62eac6d3baf0e4d2027d569c5d8d5424587b769c"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="131434371" immovable="1" name="ram_stakla36">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://34fd88d3d94c6d814fbd449e52809293b9233f63</mesh_name>
+				<surface name="Pine_mat" material="ef7e61a767b855e8188be7c0e2ed89d3e5ce4140"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1913652998" immovable="1" name="ram_stakla37">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://b8acf315d869954055a84366107479a5df259d66</mesh_name>
+				<surface name="Pine_mat" material="ef7e61a767b855e8188be7c0e2ed89d3e5ce4140"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="430027437" immovable="1" name="ram_vrata18">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://01c8fc3d739822cdf19ea70004da6701ed04958d</mesh_name>
+				<surface name="Pine_mat" material="ef7e61a767b855e8188be7c0e2ed89d3e5ce4140"/>
+				<surface name="Window_Mat" material="b0bf603f1382a49a788ebab8eec2d962cfdc5738"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1773859880" immovable="1" name="resetke37">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://5823dc4f566fa39fe85f2308a2ecdce0b405b988</mesh_name>
+				<surface name="Pine_mat" material="ef7e61a767b855e8188be7c0e2ed89d3e5ce4140"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1880967527" immovable="1" name="resetke38">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://c629a9b7e6c4885cedfb6c32bb024364c6ed8f47</mesh_name>
+				<surface name="Pine_mat" material="ef7e61a767b855e8188be7c0e2ed89d3e5ce4140"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1144633242" immovable="1" name="rucka1_od_vrata18">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://5860541927633a8b936f277a3107cfc9fb8483fa</mesh_name>
+				<surface name="Silver_mat" material="62eac6d3baf0e4d2027d569c5d8d5424587b769c"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="546218545" immovable="1" name="rucka_od_vrata18">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://3888ffc1a25669cea89bb0b438d88c42b2294311</mesh_name>
+				<surface name="Silver_mat" material="62eac6d3baf0e4d2027d569c5d8d5424587b769c"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

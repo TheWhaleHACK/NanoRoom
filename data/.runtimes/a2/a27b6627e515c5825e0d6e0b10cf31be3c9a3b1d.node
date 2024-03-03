@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="282522588" name="covered_car_4k">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="218037643" immovable="1" name="covered_car_wheel_01">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://79c24e3e38913909c778d72ac87fb6f189a681d8</mesh_name>
+			<surface name="covered_car" material="c1170bdc40756a708ac902e82075215b766f5f66"/>
+			<transform>100 8.74227838251e-06 -8.74227800037e-06 0.0 8.74227838251e-06 -4.37113823591e-06 100 0.0 8.74227800037e-06 -100 -4.37113900019e-06 0.0 -0.75760020961 1.28060007506 0.299999963097 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1090139502" immovable="1" name="covered_car_wheel_02">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://add531b1afc7c96bb5760435beda9bc83fb79b57</mesh_name>
+			<surface name="covered_car" material="c1170bdc40756a708ac902e82075215b766f5f66"/>
+			<transform>100 8.74227838251e-06 -8.74227800037e-06 0.0 8.74227838251e-06 -4.37113823591e-06 100 0.0 8.74227800037e-06 -100 -4.37113900019e-06 0.0 0.682399866684 1.28060020094 0.299999963097 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1915452917" immovable="1" name="covered_car_wheel_03">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://981589a043f2580dc18d146c9b2f967ccc2580ca</mesh_name>
+			<surface name="covered_car" material="c1170bdc40756a708ac902e82075215b766f5f66"/>
+			<transform>100 8.74227838251e-06 -8.74227800037e-06 0.0 8.74227838251e-06 -4.37113823591e-06 100 0.0 8.74227800037e-06 -100 -4.37113900019e-06 0.0 0.672400244823 -1.29939995252 0.300000075872 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="700511952" immovable="1" name="covered_car_wheel_04">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://ed31b44ba88d437afc97126f56f34ed91f60f9a1</mesh_name>
+			<surface name="covered_car" material="c1170bdc40756a708ac902e82075215b766f5f66"/>
+			<transform>100 8.74227838251e-06 -8.74227800037e-06 0.0 8.74227838251e-06 -4.37113823591e-06 100 0.0 8.74227800037e-06 -100 -4.37113900019e-06 0.0 -0.747599831471 -1.29939992407 0.300000075872 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1474452463" immovable="1" name="covered_car">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://feb5cfd20e046308853c6f7e719ab049d88ac68c</mesh_name>
+			<surface name="covered_car" material="c1170bdc40756a708ac902e82075215b766f5f66"/>
+			<transform>100 8.74227838251e-06 -8.74227800037e-06 0.0 8.74227838251e-06 -4.37113823591e-06 100 0.0 8.74227800037e-06 -100 -4.37113900019e-06 0.0 -0.0375999960392 0.037599989465 1.32576132466e-08 1.0</transform>
+		</node>
+	</node>
+</nodes>
